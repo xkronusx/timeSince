@@ -4,7 +4,6 @@
 
 Days since Augustus has gone to the store for cigs
 
-<!DOCTYPE HTML>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +17,7 @@ p {
 </head>
 <body>
 
-<p id="demo"></p>
+
 
 <script>
 // Set the date we're counting down to
@@ -42,12 +41,7 @@ var x = setInterval(function() {
   // Output the result in an element with id="demo"
   document.getElementById("demo").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
-    
-  // If the count down is over, write some text 
-  //if (distance < 0) {
-    //clearInterval(x);
-    //document.getElementById("demo").innerHTML = "EXPIRED";
-  //}
+   
 }, 1000);
 </script>
 
