@@ -17,7 +17,7 @@ p {
 </head>
 <body>
 
-
+<p id="demo"></p>
 
 <script>
 // Set the date we're counting down to
