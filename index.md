@@ -4,7 +4,10 @@
 
 Time it took Augustus has gone to the store for cigs
 <br>
-It took him 7d 5h 16m 47s
+<br>
+It took him 
+<br>
+7d 5h 16m 47s
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
