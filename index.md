@@ -39,11 +39,11 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="timer"
-  document.getElementById("timer").innerHTML = days + "d " + hours + "h "
+  document.getElementById("done").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
    
 }, 1000);
 </script>
-
+It took him 7d 5h 16m 47s
 </body>
 </html>
