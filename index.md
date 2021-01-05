@@ -2,7 +2,7 @@
 
 
 
-Time it took Augustus has gone to the store for cigs
+Time it took Augustus to go to the store for cigs
 <br>
 <br>
 It took him 
