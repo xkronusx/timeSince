@@ -2,7 +2,7 @@
 
 
 
-Days since Augustus has gone to the store for cigs
+Time it took Augustus has gone to the store for cigs
 
 <html>
 <head>
