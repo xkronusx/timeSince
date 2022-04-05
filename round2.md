@@ -3,11 +3,11 @@
 
 
 Augustus has gone to the store for cigs again
-//<br>
-//<br>
-//It took him 
-//<br>
-//7d 5h 16m 47s
+<br>
+<br>
+<!--- It took him  --->
+<br>
+<!--- 7d 5h 16m 47s --->
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
