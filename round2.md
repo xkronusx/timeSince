@@ -25,7 +25,7 @@ p {
 
 <script>
 // Set the date when our dude left us
-var countDownDate = new Date("Mar 13, 2022 19:37:25").getTime();
+var countDownDate = new Date("Feb 22, 2022 19:37:25").getTime();
 
 // Update the count every 1 second
 var x = setInterval(function() {
